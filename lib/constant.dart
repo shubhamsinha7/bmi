@@ -4,7 +4,7 @@ import 'package:flutter/material.dart';
 const kBottomcontainerHeight=60.0;//the change we make hear reflacted every where
 const kActivecardcolor=Color(0xFF1D1E33);
 const kInactivecardcolor=Color(0xFF111328);
-const kBottomcontainercolor=Colors.pink;
+const kBottomcontainercolor=Colors.yellow;
 
 const kLabletextstyle =TextStyle(
   fontSize: 18.0,
